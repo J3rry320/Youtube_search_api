@@ -1,0 +1,18 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+.list-group-item{
+  cursor: pointer;
+}
+.list-group-item:hover{
+  background-color: #eef;
+  padding-top:4%;
+}
+.navbar{
+  background-color:#ff0000
+}
+
+
+.youtube {
+
+  color: white;
+  font-size: 38px;
+}
